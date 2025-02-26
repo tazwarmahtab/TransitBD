@@ -1,0 +1,21 @@
+Warning: React does not recognize the &#x60;whileTap&#x60; prop on a DOM element. If you intentionally want it to appear in the DOM as a custom attribute, spell it as lowercase &#x60;whiletap&#x60; instead. If you accidentally passed it from a parent component, remove it from the DOM element.
+a
+@https://532d7748-932c-4e30-9ebd-2a517db1d134-00-34wdrakucy2h4.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js:337:27
+SlotClone@https://532d7748-932c-4e30-9ebd-2a517db1d134-00-34wdrakucy2h4.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-DKHUMOWT.js:52:9
+Slot@https://532d7748-932c-4e30-9ebd-2a517db1d134-00-34wdrakucy2h4.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-DKHUMOWT.js:33:9
+_c@https://532d7748-932c-4e30-9ebd-2a517db1d134-00-34wdrakucy2h4.picard.replit.dev/src/components/ui/button.tsx:48:9
+div
+div
+nav
+Navigation@https://532d7748-932c-4e30-9ebd-2a517db1d134-00-34wdrakucy2h4.picard.replit.dev/src/components/ui/navigation.tsx:41:31
+div
+HomePage
+Route@https://532d7748-932c-4e30-9ebd-2a517db1d134-00-34wdrakucy2h4.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js:323:14
+Switch@https://532d7748-932c-4e30-9ebd-2a517db1d134-00-34wdrakucy2h4.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js:380:27
+PresenceChild@https://532d7748-932c-4e30-9ebd-2a517db1d134-00-34wdrakucy2h4.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/framer-motion.js:121:41
+AnimatePresence@https://532d7748-932c-4e30-9ebd-2a517db1d134-00-34wdrakucy2h4.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/framer-motion.js:210:34
+Router@https://532d7748-932c-4e30-9ebd-2a517db1d134-00-34wdrakucy2h4.picard.replit.dev/src/App.tsx:36:27
+TutorialProvider@https://532d7748-932c-4e30-9ebd-2a517db1d134-00-34wdrakucy2h4.picard.replit.dev/src/hooks/use-tutorial.tsx:69:5
+AuthProvider@https://532d7748-932c-4e30-9ebd-2a517db1d134-00-34wdrakucy2h4.picard.replit.dev/src/hooks/use-auth.tsx:27:5
+QueryClientProvider@https://532d7748-932c-4e30-9ebd-2a517db1d134-00-34wdrakucy2h4.picard.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js:2835:9
+App
